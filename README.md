@@ -1,7 +1,3 @@
-Aquí tienes la documentación inicial para **BackFinity**, estructurada siguiendo el modelo que proporcionaste.
-
------
-
 # BackFinity
 
 Documentación del Proyecto
@@ -10,8 +6,8 @@ Documentación del Proyecto
 
 ## Desarrollo
 
-  - [Design Thinking](./docs/DesignThinking.md)
-  - [Lean Startup](./docs/LeanStartup.md)
-  - [Scrum](./docs/Scrum.md)
+  - [Design Thinking](./docs/design-thinking.md)
+  - [Lean Startup](./docs/lean-startup.md)
+  - [Scrum](./docs/scrum.md)
 
 -----
